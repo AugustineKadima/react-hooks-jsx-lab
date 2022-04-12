@@ -53,11 +53,15 @@ nav a:active {
   height: 50vh;
   min-height: 400px;
   padding: 1rem;
+  color: tomato;
+
 }
 
 #home {
   background-color: cornsilk;
 }
+
+
 
 #about img {
   max-height: 50%;
